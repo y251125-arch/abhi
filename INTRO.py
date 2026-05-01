@@ -1,0 +1,6 @@
+name ="abhishek"
+age="24"
+nationality="nepalese"
+print("my name is ",name)
+print("i am",age)
+print("i am",nationality)
