@@ -1,4 +1,0 @@
-name = input("abhishek:")
-age = input("24:")
-print("abhishek" + name + " です.")
-print("abhishek" + age + "歳 です.")

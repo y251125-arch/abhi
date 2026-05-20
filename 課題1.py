@@ -1,2 +1,3 @@
-name = input ("john:")
-print(name + "さん、こんにちは")
+score = int(input("Enter your score: "))
+  if score >= 60:
+      print("passed")
