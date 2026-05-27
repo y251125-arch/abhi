@@ -1,0 +1,3 @@
+names =["jack","mack","neek"]
+for name in names:
+    print(name)
